@@ -72,7 +72,53 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 
 ## 🌐 Web Development Projects
 
+### **[RaiseUp](https://github.com/draudrichman/raiseup_sad) | NextJS, Tailwind CSS, MongoDB, Prisma** (_Mar 2024 - Jun 2024_)
 
+- Built **Raiseup**, a crowdfunding platform empowering users to create and manage commercial and non-profit fundraisers with real-time notifications and messaging.
+- Developed the frontend using **NextJS** and styled with **Tailwind CSS** for a modern, responsive user interface.
+- Utilized **MongoDB** with **Prisma ORM** for efficient data management, enabling scalable storage of fundraiser and user data.
+- Implemented in-house authentication supporting **Google**, **GitHub**, and email signups for secure and flexible user access.
+- Integrated an AI-powered system to detect and flag potential fraud or scam campaigns, enhancing platform trust and safety.
+
+---
+
+### **[Roam](https://github.com/draudrichman/compsecurityproject) | NextJS, Tailwind CSS, MongoDB, Prisma** (_Mar 2024 - Jun 2024_)
+
+- Developed **Roam**, a secure accommodation booking platform similar to Airbnb, allowing users to create listings, book stays, and communicate via real-time notifications and messaging, built as a computer security course project.
+- Crafted a responsive frontend with **NextJS** and **Tailwind CSS**, ensuring a seamless user experience for browsing and managing listings.
+- Utilized **MongoDB** with **Prisma ORM** for efficient data storage and retrieval of listings, bookings, and user information.
+- Implemented **18 advanced security features**, including Secure Authentication, JWT-based Session Management, Password Validation, Input Sanitization, reCAPTCHA, Content Security Policy (CSP), Access Control Middleware, Session Expiration, AI-Powered Listing Validation, Geo-Location Access Control, IP Address Change Alerts, Geo-Locational Anomaly Detection, IP Validation, IP-based Account Creation Limits, HTTPS, Email Validation, Two-Step Verification, Data Encryption, and IP Firewall.
+- Leveraged real-time notifications and messaging to enhance user interaction, with a focus on security and fraud prevention through AI-driven validation and anomaly detection.
+
+---
+
+### **[Align](https://github.com/draudrichman/align-all) | NextJS, Tailwind CSS, Drizzle, Convex, Postgres, Clerk** (_May 2024 - Sep 2024_)
+
+- Developed **Align**, a productivity suite comprising three integrated apps: **Align Notes**, **Align Wallet**, and **Align Planit**, designed to streamline note-taking, financial management, and project tracking.
+- Built **Align Notes**, a block-style note-taking app inspired by Notion, enabling users to create and organize rich, structured notes with a flexible and intuitive interface.
+- Created **Align Wallet**, a finance management tool for tracking expenses, income, budgets, and financial goals, providing users with clear insights into their financial health.
+- Designed **Align Planit**, a Kanban board app for managing and tracking projects, offering a visual and efficient way to organize tasks and workflows.
+- Developed the platform using **NextJS** and **Tailwind CSS** for a modern, responsive frontend, with **Drizzle** and **Convex** for efficient data handling and real-time updates, backed by **Postgres** for robust data storage.
+- Implemented secure user authentication and authorization using **Clerk**, ensuring seamless and protected access across all three apps.
+
+---
+
+### **[Suburbia](https://github.com/draudrichman/suburbia-skateboard/) | NextJS, Tailwind CSS, Prismic CMS, GSAP, ThreeJS, MatterJS** (_Mar 2025_)
+
+- Developed **Suburbia**, a dynamic 3D eCommerce platform for skateboards, delivering an immersive shopping experience with interactive visuals and physics-based features.
+- Built the frontend using **NextJS** and **Tailwind CSS** for a sleek, responsive user interface optimized for seamless navigation and product exploration.
+- Integrated **Prismic CMS** for efficient content management, enabling easy updates to product listings, descriptions, and media.
+- Utilized **GSAP** and **ThreeJS** to create engaging 3D animations and interactive visuals, enhancing the user experience with smooth transitions and dynamic product displays.
+- Implemented a physics environment using **MatterJS**, allowing realistic interactions with skateboard products, such as simulated movements and collisions, for a unique shopping experience.
+
+---
+
+### **[Fizzi](https://github.com/draudrichman/fizzi-dris) | NextJS, Tailwind CSS, Prismic CMS, GSAP, ThreeJS** (_Mar 2025_)
+
+- Developed a vibrant landing page for **Fizzi**, a drink brand, featuring immersive 3D animations and interactive elements to showcase the product in an engaging way.
+- Built the frontend using **NextJS** and **Tailwind CSS** for a modern, responsive design optimized for seamless user experience across devices.
+- Integrated **Prismic CMS** for streamlined content management, enabling easy updates to promotional content, product details, and visuals.
+- Leveraged **GSAP** and **ThreeJS** to create captivating 3D animations and interactive features, enhancing user engagement with dynamic visuals and fluid transitions.
 
 
 ---
