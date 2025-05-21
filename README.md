@@ -92,7 +92,7 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 
 ---
 
-### **[mobe](https://github.com/draudrichman/movie-app) | React Native, Expo (_Mar 2025_)
+### **[mobe](https://github.com/draudrichman/movie-app) | React Native, Expo** (_Mar 2025_)
 - Developed **mobe**, a mobile app for movie enthusiasts to discover and explore movie details, powered by real-time data from the **TMDB API**.
 - Built the app using **React Native** and **Expo** for a seamless, cross-platform user experience on iOS and Android.
 - Integrated **TMDB API** to fetch and display comprehensive movie information, including titles, posters, synopses, and ratings.
