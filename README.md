@@ -56,3 +56,52 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)](#)
+
+
+
+
+---
+
+## 💼 Experience
+
+---
+
+## 🎓 Education
+
+---
+
+## 🌐 Web Development Projects
+
+
+
+
+---
+## 💡 Data Science Projects
+
+
+
+---
+
+## 💡 Mobile Projects
+
+### **[getOut](https://github.com/draudrichman/getOut) | React Native, Expo, Appwrite, Clerk** (_Mar 2025_)
+- Developed **getOut**, a social media mobile app inspired by Instagram, enabling users to post pictures, like, comment, and follow others for a seamless social experience.
+- Built the app using **React Native** and **Expo** for cross-platform compatibility, ensuring a smooth and responsive user interface on iOS and Android.
+- Integrated **Appwrite** for backend services, managing user data, posts, and interactions with a scalable database and storage solution.
+- Implemented secure user authentication and authorization using **Clerk**, providing robust login, signup, and session management features.
+
+---
+
+### **[mobe](https://github.com/draudrichman/movie-app) | React Native, Expo (_Mar 2025_)
+- Developed **mobe**, a mobile app for movie enthusiasts to discover and explore movie details, powered by real-time data from the **TMDB API**.
+- Built the app using **React Native** and **Expo** for a seamless, cross-platform user experience on iOS and Android.
+- Integrated **TMDB API** to fetch and display comprehensive movie information, including titles, posters, synopses, and ratings.
+- Designed a clean and intuitive interface to enhance user engagement and streamline movie discovery.
+
+---
+
+## 📫 How to Reach Me
+- **Email:** 
+- **LinkedIn:**  
+- **GitHub:** 
+- **Portfolio:** 
