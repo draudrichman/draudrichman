@@ -62,32 +62,13 @@ Hi, I'm Ahsan! I'm a web developer with a passion for crafting user-friendly app
 
 ## 💼 Experience
 
-### **Data Analyst | University of Toronto** (_May 2023 – Apr 2024_)  
-_Toronto, ON, Canada_  
-- Developed **ETL pipelines** in Python & SQL to clean large textual survey datasets, improving operational efficiency by **60%**.
-- Utilized Python and **GPT-4 embedding models** to encode textual responses, enabling deeper investigation into human goal-setting behaviors.
-- Enhanced data quality through imputation using **KNN**, **linear regression**, and **logistic regression** models.
-- Created data visualizations with **ggplot2** and **Matplotlib** to present complex analysis results.
-- Fine-tuned **transformer models (BERT)** with PyTorch to label qualitative data with **82% accuracy**.
 
----
-
-### **Developer Intern | Baycrest Hospital** (_Aug 2022 – Apr 2023_)  
-_Toronto, ON, Canada_  
-- Developed interactive web-based experiment paradigms with JavaScript & NeuroBS for 3 language studies.
-- Analyzed neuroimaging datasets via **pandas** and **scikit-learn**, identifying trends between structural damage and language impairments.
-- Created data preprocessing pipelines using **Python**, **Bash**, and **C++**, reducing manual workload by **50%**.
-- Streamlined healthcare administration processes by managing **MySQL databases** and automating data processing tasks, reducing admin work by **30%**.
 
 
 ---
 
 ## 🎓 Education
-- **MS, Data Science**, University of British Columbia  
-  _Expected Graduation: June 2025_
 
-- **HBSc, Computer Science & Neuroscience**, University of Toronto  
-  _Graduation: June 2024_
   
 ---
 
