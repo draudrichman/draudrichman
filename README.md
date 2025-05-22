@@ -174,10 +174,3 @@ _Toronto, ON, Canada_
 - **Portfolio:** 
 
 
-
-### **[getOut](https://github.com/Ahsan/getOut) | ![React Native](https://img.shields.io/badge/React_Native-2C2D72?style=for-the-badge) ![Expo](https://img.shields.io/badge/Expo-1B263B?style=for-the-badge) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge) ![Clerk](https://img.shields.io/badge/Clerk-6B33F8?style=for-the-badge)** (_May 2024 - Sep 2024_)
-
-- Developed **getOut**, a social media mobile app inspired by Instagram, enabling users to post pictures, like, comment, and follow others for a seamless social experience.
-- Built the app using **React Native** and **Expo** for cross-platform compatibility, ensuring a smooth and responsive user interface on iOS and Android.
-- Integrated **Appwrite** for backend services, managing user data, posts, and interactions with a scalable database and storage solution.
-- Implemented secure user authentication and authorization using **Clerk**, providing robust login, signup, and session management features.
