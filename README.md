@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ahsan!
 
 ## 👨‍💻 About Me
-I'm a web developer with a passion for crafting user-friendly applications and tackling complex challenges. Currently, I'm exploring the world of cybersecurity, learning new ways to secure and enhance the digital landscape. Excited to learn, build, and contribute to innovative projects!
+Hi, I'm Ahsan! I'm a web developer with a passion for crafting user-friendly applications and tackling complex challenges. Currently, I'm exploring the world of cybersecurity, learning new ways to secure and enhance the digital landscape. Excited to learn, build, and contribute to innovative projects!
 
 ---
 
@@ -58,21 +58,42 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 [![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)](#)
 
 
-
-
 ---
 
 ## 💼 Experience
 
+### **Data Analyst | University of Toronto** (_May 2023 – Apr 2024_)  
+_Toronto, ON, Canada_  
+- Developed **ETL pipelines** in Python & SQL to clean large textual survey datasets, improving operational efficiency by **60%**.
+- Utilized Python and **GPT-4 embedding models** to encode textual responses, enabling deeper investigation into human goal-setting behaviors.
+- Enhanced data quality through imputation using **KNN**, **linear regression**, and **logistic regression** models.
+- Created data visualizations with **ggplot2** and **Matplotlib** to present complex analysis results.
+- Fine-tuned **transformer models (BERT)** with PyTorch to label qualitative data with **82% accuracy**.
+
+---
+
+### **Developer Intern | Baycrest Hospital** (_Aug 2022 – Apr 2023_)  
+_Toronto, ON, Canada_  
+- Developed interactive web-based experiment paradigms with JavaScript & NeuroBS for 3 language studies.
+- Analyzed neuroimaging datasets via **pandas** and **scikit-learn**, identifying trends between structural damage and language impairments.
+- Created data preprocessing pipelines using **Python**, **Bash**, and **C++**, reducing manual workload by **50%**.
+- Streamlined healthcare administration processes by managing **MySQL databases** and automating data processing tasks, reducing admin work by **30%**.
+
+
 ---
 
 ## 🎓 Education
+- **MS, Data Science**, University of British Columbia  
+  _Expected Graduation: June 2025_
 
+- **HBSc, Computer Science & Neuroscience**, University of Toronto  
+  _Graduation: June 2024_
+  
 ---
 
 ## 🌐 Web Development Projects
 
-### **[RaiseUp](https://github.com/draudrichman/raiseup_sad) | NextJS, Tailwind CSS, MongoDB, Prisma** (_Mar 2024 - Jun 2024_)
+### **[RaiseUp](https://github.com/draudrichman/raiseup_sad) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)** (_Mar 2024 - Jun 2024_)
 
 - Built **Raiseup**, a crowdfunding platform empowering users to create and manage commercial and non-profit fundraisers with real-time notifications and messaging.
 - Developed the frontend using **NextJS** and styled with **Tailwind CSS** for a modern, responsive user interface.
@@ -82,7 +103,7 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 
 ---
 
-### **[Roam](https://github.com/draudrichman/compsecurityproject) | NextJS, Tailwind CSS, MongoDB, Prisma** (_Mar 2024 - Jun 2024_)
+### **[Roam](https://github.com/draudrichman/compsecurityproject) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)** (_Mar 2024 - Jun 2024_)
 
 - Developed **Roam**, a secure accommodation booking platform similar to Airbnb, allowing users to create listings, book stays, and communicate via real-time notifications and messaging, built as a computer security course project.
 - Crafted a responsive frontend with **NextJS** and **Tailwind CSS**, ensuring a seamless user experience for browsing and managing listings.
@@ -92,7 +113,7 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 
 ---
 
-### **[Align](https://github.com/draudrichman/align-all) | NextJS, Tailwind CSS, Drizzle, Convex, Postgres, Clerk** (_May 2024 - Sep 2024_)
+### **[Align](https://github.com/draudrichman/align-all) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-00C4B4?style=for-the-badge) ![Convex](https://img.shields.io/badge/Convex-1A1A1A?style=for-the-badge) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6B33F8?style=for-the-badge)** (_May 2024 - Sep 2024_)
 
 - Developed **Align**, a productivity suite comprising three integrated apps: **Align Notes**, **Align Wallet**, and **Align Planit**, designed to streamline note-taking, financial management, and project tracking.
 - Built **Align Notes**, a block-style note-taking app inspired by Notion, enabling users to create and organize rich, structured notes with a flexible and intuitive interface.
@@ -103,7 +124,7 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 
 ---
 
-### **[Suburbia](https://github.com/draudrichman/suburbia-skateboard/) | NextJS, Tailwind CSS, Prismic CMS, GSAP, ThreeJS, MatterJS** (_Mar 2025_)
+### **[Suburbia](https://github.com/draudrichman/suburbia-skateboard/) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prismic](https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MatterJS](https://img.shields.io/badge/MatterJs-4A4A4A?style=for-the-badge)** (_Mar 2025_)
 
 - Developed **Suburbia**, a dynamic 3D eCommerce platform for skateboards, delivering an immersive shopping experience with interactive visuals and physics-based features.
 - Built the frontend using **NextJS** and **Tailwind CSS** for a sleek, responsive user interface optimized for seamless navigation and product exploration.
@@ -113,7 +134,7 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 
 ---
 
-### **[Fizzi](https://github.com/draudrichman/fizzi-dris) | NextJS, Tailwind CSS, Prismic CMS, GSAP, ThreeJS** (_Mar 2025_)
+### **[Fizzi](https://github.com/draudrichman/fizzi-dris) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prismic](https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)** (_Mar 2025_)
 
 - Developed a vibrant landing page for **Fizzi**, a drink brand, featuring immersive 3D animations and interactive elements to showcase the product in an engaging way.
 - Built the frontend using **NextJS** and **Tailwind CSS** for a modern, responsive design optimized for seamless user experience across devices.
@@ -130,7 +151,7 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 
 ## 💡 Mobile Projects
 
-### **[getOut](https://github.com/draudrichman/getOut) | React Native, Expo, Appwrite, Clerk** (_Mar 2025_)
+### **[getOut](https://github.com/draudrichman/getOut) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6B33F8?style=for-the-badge)** (_Mar 2025_)
 - Developed **getOut**, a social media mobile app inspired by Instagram, enabling users to post pictures, like, comment, and follow others for a seamless social experience.
 - Built the app using **React Native** and **Expo** for cross-platform compatibility, ensuring a smooth and responsive user interface on iOS and Android.
 - Integrated **Appwrite** for backend services, managing user data, posts, and interactions with a scalable database and storage solution.
@@ -138,7 +159,7 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 
 ---
 
-### **[mobe](https://github.com/draudrichman/movie-app) | React Native, Expo** (_Mar 2025_)
+### **[mobe](https://github.com/draudrichman/movie-app) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)** (_Mar 2025_)
 - Developed **mobe**, a mobile app for movie enthusiasts to discover and explore movie details, powered by real-time data from the **TMDB API**.
 - Built the app using **React Native** and **Expo** for a seamless, cross-platform user experience on iOS and Android.
 - Integrated **TMDB API** to fetch and display comprehensive movie information, including titles, posters, synopses, and ratings.
@@ -151,3 +172,12 @@ I'm a web developer with a passion for crafting user-friendly applications and t
 - **LinkedIn:**  
 - **GitHub:** 
 - **Portfolio:** 
+
+
+
+### **[getOut](https://github.com/Ahsan/getOut) | ![React Native](https://img.shields.io/badge/React_Native-2C2D72?style=for-the-badge) ![Expo](https://img.shields.io/badge/Expo-1B263B?style=for-the-badge) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge) ![Clerk](https://img.shields.io/badge/Clerk-6B33F8?style=for-the-badge)** (_May 2024 - Sep 2024_)
+
+- Developed **getOut**, a social media mobile app inspired by Instagram, enabling users to post pictures, like, comment, and follow others for a seamless social experience.
+- Built the app using **React Native** and **Expo** for cross-platform compatibility, ensuring a smooth and responsive user interface on iOS and Android.
+- Integrated **Appwrite** for backend services, managing user data, posts, and interactions with a scalable database and storage solution.
+- Implemented secure user authentication and authorization using **Clerk**, providing robust login, signup, and session management features.
